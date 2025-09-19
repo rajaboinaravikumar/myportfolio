@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+ # 👋 Hi, I'm Ravi Kumar  
 
-## Project info
+🚀 **Full Stack Developer | Content Creator | Aspiring Software Engineer**  
 
-**URL**: https://lovable.dev/projects/8d63dd78-6cb9-42e0-b5bd-7380a6b56fce
+Passionate about building **scalable and user-friendly applications** powered by **React, Node.js, and cloud technologies**.  
+I also create content that empowers students in tech and career growth, building a strong online community.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🧑‍💻 About Me  
+- 💻 Skilled in **React, Node.js, Python, TypeScript, MongoDB, Firebase, Cloud**  
+- 📚 Sharing knowledge with **30K+ Instagram followers**, **1K+ YouTube subscribers**, and a growing Telegram community  
+- 🎯 Aspiring to grow as a **Software Engineer** and contribute to innovative projects  
+- 🤝 Passionate about guiding students and building supportive communities  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8d63dd78-6cb9-42e0-b5bd-7380a6b56fce) and start prompting.
+## 🔧 Tech Stack  
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frontend:** React, Tailwind CSS, Material-UI  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, Firebase  
+- **Other Tools:** Git, GitHub, REST APIs, Chart.js, Stripe  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Featured Projects  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🎵 Spotify Clone Website  
+Full-stack Spotify clone with **React, Node.js, MongoDB, Tailwind CSS**.  
+🔹 Includes user authentication and an admin dashboard.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### ✅ Task Management App  
+Collaborative app with real-time updates, drag-and-drop functionality, and team features.  
+🔹 Built using **React, TypeScript, Firebase**.  
 
-Follow these steps:
+### 🌦️ Weather Dashboard  
+Interactive weather app with location-based forecasts and historical data visualization.  
+🔹 Built using **JavaScript, Chart.js, OpenWeather API**.  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🌐 Connect With Me  
+📷 [Instagram](#) | 🎥 [YouTube](#) | 💬 [Telegram](#) | 💼 [LinkedIn](#)  
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8d63dd78-6cb9-42e0-b5bd-7380a6b56fce) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+⭐️ *"Code. Create. Grow. Repeat."*  
