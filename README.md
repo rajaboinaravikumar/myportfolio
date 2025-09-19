@@ -9,7 +9,7 @@ I also create content that empowers students in tech and career growth, building
 
 ## 🧑‍💻 About Me  
 - 💻 Skilled in **React, Node.js, Python, TypeScript, MongoDB, Firebase, Cloud**  
-- 📚 Sharing knowledge with **30K+ Instagram followers**, **1K+ YouTube subscribers**, and a growing Telegram community  
+- 📚 Sharing knowledge with **44K+ Instagram followers**, **1.3K+ YouTube subscribers**, and a growing Telegram community  
 - 🎯 Aspiring to grow as a **Software Engineer** and contribute to innovative projects  
 - 🤝 Passionate about guiding students and building supportive communities  
 
@@ -20,7 +20,7 @@ I also create content that empowers students in tech and career growth, building
 - **Frontend:** React, Tailwind CSS, Material-UI  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, Firebase  
-- **Other Tools:** Git, GitHub, REST APIs, Chart.js, Stripe  
+- **Other Tools:** Git, GitHub, REST APIs,
 
 ---
 
